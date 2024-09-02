@@ -4,6 +4,9 @@ Hello! I’m Patroba Clinton, a student with a passion for Cloud Computing. This
 ## Project List
 ## File management and automation(https://github.com/patrobacli/project1-repo)
 
+## Skills
+- **Linux**: Command line, file management, user management.
+
 ## Contact Information
 - **Email**: briankipclinton@gmail.com
 - **GitHub**:https://github.com/Patrobacli
